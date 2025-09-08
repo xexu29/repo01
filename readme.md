@@ -24,3 +24,5 @@ Respuesta:No deberia de aparecer nada porque no se ha enlazado el repositorio lo
 ![alt text](image-5.png)  
 
 1.9 Ves al repositorio remoto (en este caso GitHub) y comprueba que se haya realizado el commit correctamente y observa que pasa en el repositorio ¿Observas algo peculiar?
+Respuesta:El readme.md Aparece en primera pagina
+![alt text](image-6.png)
